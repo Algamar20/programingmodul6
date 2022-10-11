@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        background-color: yellow;
+        width: 100%;
+    }
+</style>
+<body>
+    <!-- <body style="background-color: yellow; width: 100%;"> -->
+        <h1 style="color: red; text-align: center;">SELAMAT DATANG DI STMIK HORIZON</h1>
+        <p>
+            <h3>Berikut adalah 3 gambar</h3>
+        <br><br>
+        <h1>ini gambar 1</h1>
+        <img src="pemandangan.jpg" width="200px" height="150px" alt="">
+        <br><br>
+        <h1>ini gambar 2</h1>
+        <img src="laptop.jpg" width="200px" height="150px" alt="">
+        <br><br>
+        <h1>ini gambar 3</h1>
+        <img src="kopi.jpg" width="200px" height="150px" alt="">
+</body>
+</html>
