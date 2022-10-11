@@ -1,0 +1,17 @@
+<html lang="en">
+    <head>
+        <style>
+            img {
+                opacity: 0.5;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Image tranparancy</h1>
+        <p>The opacity property specifies the transparency of an element.
+            the lower value, the more transparent:</p>
+
+            <p>image with 50% opaciy:</p>
+            <img src="pemandangan.jpg" width="170" height="100" alt="">
+    </body>
+    </html>
