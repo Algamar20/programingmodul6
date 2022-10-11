@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div {
+            background-image: url(kuning.webp);
+            width: 100%;
+            height: 25%;
+            border: 3px solid rgba(75, 18, 234, 0.891);
+            padding: 50px;
+            color: rgb(255, 0, 115);
+            align: center;
+        }
+        h1{text-align: center;}
+        body {
+            background-color: rgb(133, 226, 28);
+        }
+        p {
+            font-size: 16px;
+            font-family: sans-serif;
+            align: justify;
+            color: rgb(12, 12, 12);
+        }
+    </style>
+</head>
+<body>
+    <div><h1>SELAMAT DATANG DI STMIK HORIZON</h1></div>
+    <P>Stmik Horizon adalah kampus IT pertama di Karawang, letaknya sangat strategis berada di tengah kota karawang.
+        askses jalan sangat mudah</P>
+</body>
+</html>
