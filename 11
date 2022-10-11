@@ -1,0 +1,19 @@
+<html lang="en">
+    <head>
+        <style>
+            img {
+                opacity: 0.5;
+            }
+            img :hover {
+                opacity: 1.0;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Image transparency</h1>
+        <p>The opacity is often used together with the :hover selector to change the opacity on mouse-over</p>
+        <img src="pemandangan.jpg" width="170" height="100" alt="">
+        <img src="pemandangan.jpg" width="170" height="100" alt="">
+        <img src="pemandangan.jpg" width="170" height="100" alt="">
+    </body>
+</html>
